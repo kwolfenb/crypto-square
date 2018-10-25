@@ -1,18 +1,13 @@
-# _Ruman Numeral Converter_
+# _Crypto Square Calculator_
 
-#### A program that converts decimal numbers into Roman numerals
+#### A program that converts text into encoded words using the Crypto Square.
 
 #### By **Kenny Wolfenberger and Max Dubin**
 
 ## Description
 
-This website uses JavaScript to convert a number inputted by the user to return the value in Roman numerals.
+This website uses JavaScript to convert text input by user into crypto square code.
 
-### Specs
-| Spec | Input | Output |
-| :-------------     | :------------- | :------------- |
-| **Add the value of all the symbols** | User input: "53" | Output: "LIII" |
-| **There may not be more than three of the same characters in a row. Instead switch to subtraction. **| User Input: "99" | Output: "IC" |
 
 ## Setup/Installation Requirements
 
